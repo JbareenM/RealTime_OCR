@@ -1,1 +1,2 @@
-# RealTime_OCR
+# OCR & Navigation algorithm
+The OCR system is used to convert images and videos of text into letters, words, and sentences. It is widely used in various fields to convert/ extract the information from the image or video. It is also used in signature recognition, automated data evaluation, and security systems. It is commercially used to validate data records, passport doc, place signs, business cards, printouts of static data, and so on. OCR is a field of research in pattern recognition, deep learning, artificial intelligence, and computer vision.  
