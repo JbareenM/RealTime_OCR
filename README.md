@@ -29,5 +29,6 @@ This is a project that is a small part of a big project so we have to assemble t
 ![image](https://user-images.githubusercontent.com/33619392/73290681-8615c780-4207-11ea-845d-471c7656b623.png)
 
 **************************************************************************************************************
+**OCR & Navigation Game
 
 ![image](https://user-images.githubusercontent.com/40535130/95772521-8b4b7180-0cc5-11eb-931c-70c6ec2d16ed.png)
